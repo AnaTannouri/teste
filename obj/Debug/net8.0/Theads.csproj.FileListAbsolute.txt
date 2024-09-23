@@ -1,0 +1,14 @@
+C:\Dev\APS 2\Theads\Theads\bin\Debug\net8.0\Theads.exe
+C:\Dev\APS 2\Theads\Theads\bin\Debug\net8.0\Theads.deps.json
+C:\Dev\APS 2\Theads\Theads\bin\Debug\net8.0\Theads.runtimeconfig.json
+C:\Dev\APS 2\Theads\Theads\bin\Debug\net8.0\Theads.dll
+C:\Dev\APS 2\Theads\Theads\bin\Debug\net8.0\Theads.pdb
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.AssemblyInfoInputs.cache
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.AssemblyInfo.cs
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.csproj.CoreCompileInputs.cache
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.dll
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\refint\Theads.dll
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.pdb
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\Theads.genruntimeconfig.cache
+C:\Dev\APS 2\Theads\Theads\obj\Debug\net8.0\ref\Theads.dll
